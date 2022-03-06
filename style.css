@@ -7,6 +7,9 @@ h1{
 .name-light{
     color: orange;
 }
+#frnd-highlight{
+    color: deeppink;
+}
 .half-width{
     width: 40%;
     float: left;
